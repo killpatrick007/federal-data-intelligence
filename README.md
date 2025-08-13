@@ -220,7 +220,7 @@ Email: [Contact through platform](https://appapppy-bzlbpdmks3mr53afp7uczd.stream
 
 This documentation and architecture overview is provided for informational purposes. The Federal Data Intelligence platform and associated code are proprietary.
 
-**© 2025 Federal Data Intelligence. All rights reserved.**
+**© 2025 VibeGentix AI. All rights reserved.**
 
 ---
 
